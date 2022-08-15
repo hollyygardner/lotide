@@ -1,0 +1,22 @@
+{
+  "name": "@hollyygardner/lotide",
+  "version": "1.0.0",
+  "description": "mini clone of Lodash",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollyygardner/lotide.git"
+  },
+  "author": "holly gardner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hollyygardner/lotide/issues"
+  },
+  "homepage": "https://github.com/hollyygardner/lotide#readme"
+}
